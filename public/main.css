@@ -1,0 +1,14 @@
+body {
+    background-color: #1d0d2b;
+    font-family: arial;
+    font-size: 24px;
+}
+
+.card {    
+    background-color: rgb(230, 168, 0);
+}
+
+#playButton {
+    width: 75px;
+    height: 75px;
+}
